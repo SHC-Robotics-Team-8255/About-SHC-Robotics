@@ -16,20 +16,26 @@ SHC chose the [VEX
 
 * Level Playing Field
 * [Strong Curriculum](http://curriculum.vexrobotics.com/) 
-* [Focus on Robot Performance]
+* Focus on Robot Performance
 
 ### Level Playing Field
-VEX competitions allow only VEX parts to be used.  Team cannot
+VEX competitions allow only VEX parts to be used.  Teams cannot
 manufacture, machine, or 3D print additional parts.  In FIRST
 competitions those are allowed and new programs like ours do not have
-access to the machine shops/equipment to be able to compete.  We aim
-to build a program around VEX and add FIRST later as we gain
-experience and resources.
+access to the machine shops/equipment to be able to compete.  We
+observed that successful FIRST teams have a huge head start in those
+areas and that we would be at a serious disadvantage if we started in
+FIRST.  We decided to build a program around VEX and add FIRST later
+as we gain experience and resources.
 
 ### Strong Curriculum
 VEX provides an excellent set of material for teachers to use in the
 classroom and we aspire to expand robotics into more classes at the
-school.
+school. SHC has a "physics first" approach to science and the hands-on
+lessons of motors, motion, gears, sensors, etc. can dramatically
+enhance a student's understanding of science if added to the
+lessons. SHC is in the process of making robotcs part of the larger 
+curriculum.
 
 ### Focus on Robot Performance
 
@@ -45,7 +51,9 @@ program at a later date.
 Nearly all of our students use Apple computers and only one or two use
 PCs.  The "standard" tools for doing [VEX
 programming](http://www.vexrobotics.com/vexedr/software/) include
-RobotC and EasyC.  However, these tools operate in Windows on PCs.
+RobotC and EasyC.  However, these tools operate in Windows on PCs,
+which would require most of our students to use a virtual environment
+and to purchase seperate Windows(tm) licenses.
 An Open Source option that runs on Apple and Linux computers is
 [Convex](https://github.com/jpearman/convex) but the learning curve to
 install it and use it is steep.  SHC took the time to create
